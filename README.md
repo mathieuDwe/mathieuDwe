@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Salut
 
-<!--
-**mathieuDwe/mathieuDwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Étudiant en cybersécurité, orienté sécurité des systèmes d'information  
+💻 Python, automatisation et outils de sécurité  
+🔐 Intérêt pour la sécurité offensive et défensive  
 
-Here are some ideas to get you started:
+## ⚙️ Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Linux
+- Réseaux
+- Cybersécurité (bases)
+- Automatisation
+
+## 🛠️ Outils
+
+- Nmap
+- Wireshark
+- Metasploit (bases)
+- Git / GitHub
+
+## 🚀 Objectif
+
+Développer mes compétences en cybersécurité à travers des projets concrets,  
+et évoluer vers un poste technique (SOC, pentest ou sécurité opérationnelle).
+
+## 📫 Contact
+
+- LinkedIn : (à ajouter)
